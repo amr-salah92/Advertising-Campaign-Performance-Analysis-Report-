@@ -249,7 +249,8 @@ Based on the analysis of channel performance, ad format effectiveness, temporal 
 | Tool | Usage |  
 |------|-------|  
 | MySQL 8.0 | Data extraction, transformation, and MoM/YoY calculations |  
-| Power bi | Interactive dashboards for performance tracking |  
+| Power bi | Interactive dashboards for performance tracking | 
+| Figma    | designing background of the power bi canvas |  
 
 
 **Repositories:**  
