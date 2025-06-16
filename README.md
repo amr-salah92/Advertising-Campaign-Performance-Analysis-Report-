@@ -168,7 +168,7 @@ AdTech Solutions Inc. operates in the digital advertising sector (2023–2024), 
 - **Insight 2.2:** Text ads has highest avg conversion rate (0.01755) and best CPA (27.44572)
   
 
-![CTR vs CPA by Format](link-to-ctr-cpa-scatterplot)  
+![Screenshot_17-6-2025_12336_chat deepseek com](https://github.com/user-attachments/assets/2e0a166b-db59-4246-9aa2-29f12d77428e)
 
 #### Category 3: Temporal Patterns  
 - **Insight 3.1:** 10 AM generates Highest of daily leads (1236063 leads/hour )  
@@ -180,7 +180,7 @@ AdTech Solutions Inc. operates in the digital advertising sector (2023–2024), 
 #### Category 4: Industry Benchmarks  
 - **Insight 4.1:** Telecom achieves highest Conversion rate , revenue uplift , total impressions , total clicks , lead generations ,ROAS ,  best CPM ,CPA & generate the best revenue but  highest ad_spend
 
-![Screenshot_17-6-2025_12336_chat deepseek com](https://github.com/user-attachments/assets/2e0a166b-db59-4246-9aa2-29f12d77428e)
+
 
 ![Telecom vs Retail Dashboard](link-to-industry-dashboard)  
 
