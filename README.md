@@ -249,13 +249,12 @@ Based on the analysis of channel performance, ad format effectiveness, temporal 
 | Tool | Usage |  
 |------|-------|  
 | MySQL 8.0 | Data extraction, transformation, and MoM/YoY calculations |  
-| Tableau 2024.1 | Interactive dashboards for performance tracking |  
-| Python Pandas | Data quality checks and outlier detection |  
+| Power bi | Interactive dashboards for performance tracking |  
+
 
 **Repositories:**  
 - [Data Cleaning SQL Scripts](https://github.com/adtech/repo/data_cleaning)  
-- [Business Analysis Queries](https://github.com/adtech/repo/business_queries)  
-- [Tableau Performance Dashboard](https://tableau.adtech.com/dashboards/campaign_performance)  
+- [Power bi Performance Dashboard](https://tableau.adtech.com/dashboards/campaign_performance)  
 
 ---
 
