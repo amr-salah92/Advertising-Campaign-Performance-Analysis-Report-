@@ -150,8 +150,7 @@ AdTech Solutions Inc. operates in the digital advertising sector (2023–2024), 
 2. 📈 **Telecom campaigns generate more revenue** ($7.511 avg uplift) vs Retail ($7.494)  
 3. 🕙 **10 AM delivers highest Revenue (86165487.32 $)** with lowest CPC ($ 1.03803)
   
-
-![Monthly ROAS Trends](link-to-visual-social-vs-search-trends)  
+![Screenshot_17-6-2025_11334_chat deepseek com](https://github.com/user-attachments/assets/307a4132-45c5-4dea-8b05-72e81eb78e57)
 
 ---
 
@@ -161,7 +160,7 @@ AdTech Solutions Inc. operates in the digital advertising sector (2023–2024), 
 - **Insight 1.2:** Social Media has highest Revenue Uplift ($7.558) , best CPA ($27.37057)  , best CTR (0.02773) , lowest CPC ($1.04805)
 - **Insight 1.3:** Search engine has highest Revenue ($671,468,706.22) , best CPA ($27.37057)  , best CTR (0.02773) , lowest CPC ($1.04805)
 
-![ROAS by Channel](link-to-channel-roas-barchart)  
+![Screenshot_17-6-2025_11543_chat deepseek com](https://github.com/user-attachments/assets/546242a2-301f-4c1e-92f6-9e81ea7ce658) 
 
 #### Category 2: Creative Optimization  
 - **Insight 2.1:** Video ads dominate highest total impressions (851626104) , total clicks (23394863) , total lead generations (9382504) and best CPM (7.941) & generate highest revenue (667744891.15) but highest ad _spend (24568867.08)
@@ -175,14 +174,13 @@ AdTech Solutions Inc. operates in the digital advertising sector (2023–2024), 
 - **Insight 3.2:** march 2024 peaked with $86708303.41 revenue
 - **Insight 3.3:** 2 pm has highest revenue uplift & lowesst CTR & Secand highest conversion rate , total impressions & ROAS
 
-![Conversions by Hour](link-to-heatmap-hourly-conversions)  
+
 
 #### Category 4: Industry Benchmarks  
 - **Insight 4.1:** Telecom achieves highest Conversion rate , revenue uplift , total impressions , total clicks , lead generations ,ROAS ,  best CPM ,CPA & generate the best revenue but  highest ad_spend
 
 
 
-![Telecom vs Retail Dashboard](link-to-industry-dashboard)  
 
 ---
 ![Screenshot_17-6-2025_11225_chat deepseek com](https://github.com/user-attachments/assets/acdaa0b9-86a6-4f6a-93b3-e0119b4c957f)
@@ -195,11 +193,11 @@ Based on the analysis of channel performance, ad format effectiveness, temporal 
 
 - **Prioritize Affiliate Channels**  
   Affiliate campaigns deliver the highest average ROAS (**46.444**) and the lowest cost exposure relative to revenue. Allocate additional budget toward affiliate campaigns for performance-focused growth.
-![Screenshot_17-6-2025_11334_chat deepseek com](https://github.com/user-attachments/assets/307a4132-45c5-4dea-8b05-72e81eb78e57)
+
 
 - **Reallocate from Underperforming Search Ads**  
   While Search Engine ads generate the highest total revenue, they lag in ROAS and consume higher ad spend. Shift a portion of this budget to affiliate and social media channels where return efficiency is stronger.
-![Screenshot_17-6-2025_11543_chat deepseek com](https://github.com/user-attachments/assets/546242a2-301f-4c1e-92f6-9e81ea7ce658)
+
 
 #### 🎯 Creative Optimization
 
