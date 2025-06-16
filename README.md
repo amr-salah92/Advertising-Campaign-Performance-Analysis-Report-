@@ -253,8 +253,8 @@ Based on the analysis of channel performance, ad format effectiveness, temporal 
 
 
 **Repositories:**  
-- [Data Cleaning SQL Scripts](https://github.com/adtech/repo/data_cleaning)  
-- [Power bi Performance Dashboard](https://tableau.adtech.com/dashboards/campaign_performance)  
+- [Data Cleaning SQL Scripts]([https://github.com/adtech/repo/data_cleaning](https://github.com/amr-salah92/Advertising-Campaign-Performance-Analysis-Report-/blob/main/advertising.sql))  
+- [Power bi Performance Dashboard]([https://tableau.adtech.com/dashboards/campaign_performance](https://github.com/amr-salah92/Advertising-Campaign-Performance-Analysis-Report-/blob/main/Advertising.pbix))  
 
 ---
 
