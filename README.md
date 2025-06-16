@@ -30,8 +30,20 @@ AdTech Solutions Inc. operates in the digital advertising sector (2023–2024), 
 - CPA range: $5–$50  
 - Revenue Uplift range: -$5 to $20  
 - Database covers Jan 2023–Dec 2024 (24 months)  
-- 50,000 records tracking $ 1,978,572,338 BN in Revenue 
-
+- 50,000 records tracking $ 1,978,572,338 BN in Revenue
+- Max Ads Spend : 9478.84 $
+- Total Ads Spend : 73 M $
+- CPM Range 1 - 15 
+- CPC Range 0.1 - 2 
+- CTR range 0.005 - 0.05
+- CPA Range 5 - 50 
+- Conversion Rate range 0.005 - 0.03
+- Revenue Uplift range -5  - 20
+- Impressions range 1000 - 99997
+- Clicks range 6 - 4969 
+- Lead Generation range 1 - 2912
+- ROAS range -20.69   -  1014.37
+  
 ---
 
 ### 3. Project Goals  
@@ -114,6 +126,7 @@ AdTech Solutions Inc. operates in the digital advertising sector (2023–2024), 
 | **Ad Spend**        | DECIMAL(18,2) | Amount spent on advertisements                              | 0 nulls                 |
 | **date\_part**      | DATE          | Date component (2023-01-01 to 2024-10-31)                   | Derived from timestamp  |
 
+![Screenshot_16-6-2025_211920_dbdiagram io](https://github.com/user-attachments/assets/21b82e74-7d1e-4036-a700-5f01e25bd078)
 
 **Initial Checks:**  
 - No Nulls 
@@ -133,9 +146,10 @@ AdTech Solutions Inc. operates in the digital advertising sector (2023–2024), 
 ### 10. Executive Summary  
 **Stakeholder:** Chief Marketing Officer  
 **Top Insights:**  
-1. ⚡️ **Social Media drives 23% higher ROAS (4.1)** than Search Engine (3.3)  
-2. 📈 **Telecom campaigns generate 35% more revenue** ($12.5 avg uplift) vs Retail ($8.2)  
-3. 🕙 **10 AM–2 PM delivers 40% of daily conversions** with lowest CPC ($0.15)  
+1. ⚡️ **affilate drives higher AVG ROAS (46.444)** than Search Engine (46.431)  
+2. 📈 **Telecom campaigns generate more revenue** ($7.511 avg uplift) vs Retail ($7.494)  
+3. 🕙 **10 AM delivers highest Revenue (86165487.32 $)** with lowest CPC ($ 1.03803)
+  
 
 ![Monthly ROAS Trends](link-to-visual-social-vs-search-trends)  
 
@@ -143,55 +157,81 @@ AdTech Solutions Inc. operates in the digital advertising sector (2023–2024), 
 
 ### 11. Insights Deep Dive  
 #### Category 1: Channel Efficiency  
-- **Insight 1.1:** Social Media has highest ROAS (4.1) and Revenue Uplift ($14.2)  
-  *Support:* 28% YoY revenue growth in 2024, peak ROAS=16.65 (Campaign #01705)  
-- **Insight 1.2:** Affiliate ads have lowest CPM ($1.8) but highest CPA ($12)  
-  *Support:* 20% higher CPA than Social Media, CTR below benchmark (0.008)  
+- **Insight 1.1:** affilate has highest ROAS (46.444) , has Best CPM (7.971) & least ad spend with second highest Revenue
+- **Insight 1.2:** Social Media has highest Revenue Uplift ($7.558) , best CPA ($27.37057)  , best CTR (0.02773) , lowest CPC ($1.04805)
+- **Insight 1.3:** Search engine has highest Revenue ($671,468,706.22) , best CPA ($27.37057)  , best CTR (0.02773) , lowest CPC ($1.04805)
 
 ![ROAS by Channel](link-to-channel-roas-barchart)  
 
 #### Category 2: Creative Optimization  
-- **Insight 2.1:** Video ads dominate impressions (65K/month) but have lowest CTR (0.006)  
-  *Support:* 48% lower CTR than Text ads, despite 22% higher impressions  
-- **Insight 2.2:** Text ads achieve best CPA ($7) and CTR (0.035)  
-  *Support:* Telecom text ads: 0.038 conversion rate (highest in dataset)  
+- **Insight 2.1:** Video ads dominate highest total impressions (851626104) , total clicks (23394863) , total lead generations (9382504) and best CPM (7.941) & generate highest revenue (667744891.15) but highest ad _spend (24568867.08)
+- **Insight 2.2:** Text ads has highest avg conversion rate (0.01755) and best CPA (27.44572)
+  
 
 ![CTR vs CPA by Format](link-to-ctr-cpa-scatterplot)  
 
 #### Category 3: Temporal Patterns  
-- **Insight 3.1:** 10 AM–2 PM generates 48% of daily leads (1,200 leads/hour avg)  
-  *Support:* Lowest CPC ($0.15) and highest revenue/hour ($18K)  
-- **Insight 3.2:** March 2024 peaked with $2.1M revenue (+20% MoM growth)  
-  *Support:* Telecom campaigns drove 62% of quarterly revenue  
+- **Insight 3.1:** 10 AM generates Highest of daily leads (1236063 leads/hour )  
+- **Insight 3.2:** march 2024 peaked with $86708303.41 revenue
+- **Insight 3.3:** 2 pm has highest revenue uplift & lowesst CTR & Secand highest conversion rate , total impressions & ROAS
 
 ![Conversions by Hour](link-to-heatmap-hourly-conversions)  
 
 #### Category 4: Industry Benchmarks  
-- **Insight 4.1:** Telecom achieves 35% higher ROAS (5.4) vs Retail (4.0)  
-  *Support:* 28% lower CPA ($8 vs $11), +52% lead generation  
-- **Insight 4.2:** Retail underperforms in revenue uplift (-18% vs Telecom)  
-  *Support:* 72% of Retail campaigns missed CPA targets in Q3 2024  
+- **Insight 4.1:** Telecom achieves highest Conversion rate , revenue uplift , total impressions , total clicks , lead generations ,ROAS ,  best CPM ,CPA & generate the best revenue but  highest ad_spend
+
+![Screenshot_17-6-2025_12336_chat deepseek com](https://github.com/user-attachments/assets/2e0a166b-db59-4246-9aa2-29f12d77428e)
 
 ![Telecom vs Retail Dashboard](link-to-industry-dashboard)  
 
 ---
+![Screenshot_17-6-2025_11225_chat deepseek com](https://github.com/user-attachments/assets/acdaa0b9-86a6-4f6a-93b3-e0119b4c957f)
+  
+### 12. Recommendations
 
-### 12. Recommendations  
-1. **Budget Reallocation**  
-   - Shift 20% of Search Engine budget to Social Media (projected +23% ROAS)  
-   - *Rationale: Social Media delivers highest ROAS (4.1) and revenue uplift ($14.2)*  
+Based on the analysis of channel performance, ad format effectiveness, temporal trends, and industry benchmarks, the following strategic recommendations are proposed to **AdTech Solutions Inc.** to achieve the 2025 goals of increasing **ROAS by 15%** and reducing **CPA by 10%**:
 
-2. **Creative Optimization**  
-   - Replace underperforming Video ads with Text ads in Telecom campaigns  
-   - *Rationale: Text ads yield 0.038 conversion rate (best in dataset)*  
+#### 📢 Channel Strategy
 
-3. **Bid Timing Strategy**  
-   - Concentrate 50% of daily bids in 10 AM–2 PM windows  
-   - *Rationale: 48% of daily leads generated in this period with lowest CPC*  
+- **Prioritize Affiliate Channels**  
+  Affiliate campaigns deliver the highest average ROAS (**46.444**) and the lowest cost exposure relative to revenue. Allocate additional budget toward affiliate campaigns for performance-focused growth.
+![Screenshot_17-6-2025_11334_chat deepseek com](https://github.com/user-attachments/assets/307a4132-45c5-4dea-8b05-72e81eb78e57)
 
-4. **Cross-Industry Tactics**  
-   - Implement Telecom's CPA model ($8) in Retail via audience segmentation  
-   - *Rationale: Retail CPA currently $11 (37.5% higher than Telecom)*  
+- **Reallocate from Underperforming Search Ads**  
+  While Search Engine ads generate the highest total revenue, they lag in ROAS and consume higher ad spend. Shift a portion of this budget to affiliate and social media channels where return efficiency is stronger.
+![Screenshot_17-6-2025_11543_chat deepseek com](https://github.com/user-attachments/assets/546242a2-301f-4c1e-92f6-9e81ea7ce658)
+
+#### 🎯 Creative Optimization
+
+- **Invest in Video for Reach, Text for Conversion**  
+  Use **Video ads** for awareness (highest impressions, clicks, leads), but complement with **Text ads** in remarketing flows due to their **highest conversion rate (0.01755)** and **lowest CPA (27.45)**.
+
+- **Monitor High-Spend Creatives**  
+  Video formats lead in revenue but account for **$24.5M+ in ad spend**. Implement spending thresholds or ROI-based creative gating to prevent inefficient budget drains.
+
+#### 🕙 Time-Based Campaign Scheduling
+
+- **Double Down on 10 AM Slots**  
+  Ads at **10 AM** produced the highest revenue (**$86.1M**) and lowest CPC (**$1.038**). Use automated bid boosts and priority delivery settings during this hour.
+
+- **Avoid 2 PM Without Creative Adjustment**  
+  Despite high revenue uplift at **2 PM**, CTR is the lowest. Recommend A/B testing new creatives or frequency-capping during this hour.
+
+#### 🏭 Industry-Specific Targeting
+
+- **Favor Telecom Sector**  
+  Telecom campaigns outperformed Retail across all KPIs: ROAS, revenue, lead generation, CTR, and CPA. Recommend expanding Telecom-targeted investments in Q1–Q2 2025.
+
+- **Refine Retail Bidding Strategy**  
+  Retail shows competitive CTR and CPC but lower lead gen and ROAS. Apply more granular segmentation and test lower bid ceilings to boost return efficiency.
+
+#### 📊 Operational Efficiency
+
+- **Ad Spend Auditing**  
+  Automatically flag and pause campaigns with **CPA > $40** or **ROAS < 1.0** for review. Introduce exception monitoring logic into campaign workflows.
+
+- **Introduce Efficiency Scoring**  
+  Implement a real-time **Efficiency Score** (`Revenue ÷ Ad Spend`) in internal dashboards to track and optimize performance continuously.
 
 ---
 
